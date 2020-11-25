@@ -1,4 +1,4 @@
-How to Install
+Instructions To Install
 -------------------------
 1. Create/locate a new mysql database to install php point of sale into
 2. Execute the file database/database.sql to create the tables needed
